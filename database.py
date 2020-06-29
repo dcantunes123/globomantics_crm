@@ -51,7 +51,7 @@ class Database:
             # return f"{bal:.2f} EUR"
 
             # Style added in module 3
-            return f"$ {bal:.2f}"
+            return f"{bal:.2f} USD"
 
             # Original style in module 2
             # return int(acct["due"]) - int(acct["paid"])
